@@ -1,5 +1,5 @@
 ---
-title: C++使用智能指针示例
+title: C++智能指针使用示例
 date: 2025-10-3 20:20:20
 updated:
 categories: [cpp]
